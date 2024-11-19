@@ -2,8 +2,8 @@
 ## Purpose and Description
 The purpose of the Student Management System is to provide an efficient platform for managing student data within an educational institution. It enables administrators and teachers to maintain accurate records of student information, courses enrolled, and academic performance. Additionally, it facilitates communication between stakeholders and streamlines administrative tasks related to student management.
 
-##Install Django if not installed
-    pip install -r requirements.txt
+## Install Django if not installed
+    py -m pip install Django
 
 ## Explore
 Try it out by installing the requirements. (Works only with python >= 3.8, due to Django 4)
@@ -20,7 +20,6 @@ And then start the server (default: http://localhost:8000)
 
 
 Now you can browse the [API](http://localhost:8000/api/)
-or start on the [landing page](http://localhost:8000/)
 
 
 [license-url]: https://github.com/rtzll/django-todolist/blob/master/LICENSE
