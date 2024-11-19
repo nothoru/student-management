@@ -6,7 +6,7 @@ The purpose of the Student Management System is to provide an efficient platform
     py -m pip install Django
 
 ## Explore
-Try it out by installing the requirements. (Works only with python >= 3.8, due to Django 4)
+install the requirements. (Works only with python >= 3.8, due to Django 4)
 
     pip install -r requirements.txt
 
@@ -18,8 +18,6 @@ And then start the server (default: http://localhost:8000)
 
     python manage.py runserver
 
-
-Now you can browse the [API](http://localhost:8000/api/)
 
 
 [license-url]: https://github.com/rtzll/django-todolist/blob/master/LICENSE
