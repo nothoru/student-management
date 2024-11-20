@@ -15,12 +15,12 @@ class StudentForm(forms.ModelForm):
             'email': 'Email',
             'student_course': 'Student Course',
         }
-        widgets={
+        widgets = {
             'student_usn': forms.NumberInput(attrs={'class': 'form-control'}),
             'first_name': forms.TextInput(attrs={'class': 'form-control'}),
             'last_name': forms.TextInput(attrs={'class': 'form-control'}),
             'email': forms.EmailInput(attrs={'class': 'form-control'}),
-            'student_course': forms.TextInput(attrs={'class': 'form-control'}),
+            'student_course': forms.Select(attrs={'class': 'form-control'}),
         }
 
 class SignUpForm(UserCreationForm):
