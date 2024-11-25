@@ -1,9 +1,9 @@
 # Teamba - Student Management System
 ## Members
-Rodas, Daniella Mae V. - 22012948710
-Villanueva, Kurt M. - 20000327410
-Rodriguez Jr., Nathaniel D. - 20001164400
-Aguiluzz, Franzel Jordan G. - 22011458310
+Rodas, Daniella Mae V. - 22012948710 <br>
+Villanueva, Kurt M. - 20000327410 <br>
+Rodriguez Jr., Nathaniel D. - 20001164400 <br>
+Aguiluzz, Franzel Jordan G. - 22011458310 <br>
 Interino, Carl Andre C. - 22012198210
 
 
